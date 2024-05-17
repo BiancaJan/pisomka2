@@ -15,7 +15,7 @@ def klikaj(event):
             for i in range(min(r,z_r),max(r,z_r) + 1):
                 canvas.itemconfig(siet[i][s],fill = "blue")
         else:
-            canvas.itemconfig(siet[z_r][z_s],fill = "green" )
+            canvas.itemconfig(siet[z_r][z_s],fill = "white" )
         z_r,z_s = -1, -1
 
 strana = 40
