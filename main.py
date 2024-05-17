@@ -33,3 +33,4 @@ z_r, z_s = -1, -1
 canvas.bind("<Button-1>", klikaj)
 
 canvas.mainloop()
+bxcbha
